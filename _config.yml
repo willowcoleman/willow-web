@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Willow Coleman # the website title (if blank, full name will be used instead)
-first_name: Willow
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Red Willow
 middle_name: 
 last_name: Coleman
 email: willowcoleman@pm.me
