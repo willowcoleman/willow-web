@@ -4,7 +4,7 @@ date: 2022-10-24 07:59:00-0400
 inline: true
 ---
 
-Began as a Community Science Fellow with the AGU Thriving Earth Exchange <a href="https://thrivingearthexchange.org/meet-our-october-2022-community-science-fellow-cohort/" >October 2022 cohort</a>
+Started as a Community Science Fellow with the AGU Thriving Earth Exchange <a href="https://thrivingearthexchange.org/meet-our-october-2022-community-science-fellow-cohort/" >October 2022 cohort</a>
 
 <!-- ***
 
