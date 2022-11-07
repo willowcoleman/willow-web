@@ -4,7 +4,7 @@ date: 2022-05-15 07:59:00-0400
 inline: true
 ---
 
-:sparkles: Graduated from Harvey Mudd College with a B.S. in Mathematical and Computational Biology and an emphasis in Environmental Analysis. 
+Graduated from Harvey Mudd College with a B.S. in Mathematical and Computational Biology and an emphasis in Environmental Analysis 
 
 
 
