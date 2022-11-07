@@ -1,12 +1,10 @@
 ---
 layout: post
-date: 2022-05-15 07:59:00-0400
+date: 2022-10-24 07:59:00-0400
 inline: true
 ---
 
-Graduated from Harvey Mudd College with a B.S. in Mathematical and Computational Biology and an emphasis in Environmental Analysis 
-
-
+Selected as a Community Science Fellow in the <a href="https://thrivingearthexchange.org/meet-our-october-2022-community-science-fellow-cohort/" >AGU Thriving Earth Exchange October 2022 cohort</a>
 
 <!-- ***
 
