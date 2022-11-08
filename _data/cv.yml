@@ -12,9 +12,11 @@
       year: 2022
       description:
         - Emphasis in Environmental Analysis
-        - <b> Senior Thesis - </b> Investigating the Use of Generative Adversarial Networks (GANs) for Pansharpening Thermal Satellite Imagery
         - Graduated with Distinction 
         - Graduated with Honors in Humanities, Social Sciences, and the Arts
+        - title: <b> Senior Thesis- </b> 
+            contents: 
+              - Investigating the Use of Generative Adversarial Networks (GANs) for Pansharpening Thermal Satellite Imagery
 
 - title: Experience
   type: time_table
@@ -40,7 +42,7 @@
       year: Jun 2018 - Dec 2020
 
     - title: NASA DEVELOP Team Member
-      institution: NASA Applied Sciences
+      institution: Science Systems & Applications Inc.
       year: Sep 2020 - Nov 2020 
 
 - title: Honors and Awards
