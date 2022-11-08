@@ -5,6 +5,8 @@
       value: Red Willow Coleman
     - email: Email
       value: willowcoleman@pm.me
+    - pdf: pdf
+      value: See PDF for details -> 
 
 - title: Education
   type: time_table
@@ -12,13 +14,6 @@
     - title: BS Mathematical and Computational Biology
       institution: Harvey Mudd College, Claremont, CA
       year: 2022
-      description:
-        - Emphasis in Environmental Analysis
-        - Graduated with Distinction 
-        - Graduated with Honors in Humanities, Social Sciences, and the Arts
-        - title: <b> Senior Thesis- </b> 
-            contents: 
-              - Investigating the Use of Generative Adversarial Networks (GANs) for Pansharpening Thermal Satellite Imagery
 
 - title: Experience
   type: time_table
@@ -58,14 +53,17 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Remote Sensing 
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Urban heat islands (UHIs)
+        - Land cover/land use mapping 
+        - Urban carbon emissions 
+        - Google Earth Engine
+    - title: Machine Learning 
       items:
-        - Description 1.
-        - Description 2.
+        - GANs for satellite imagery 
+        - Image super-resolution
+        - Explainable AI
 
 - title: Other Interests
   type: list
