@@ -21,37 +21,35 @@
   contents:
     - title: Software Engineer
       institution: Schmidt Academy for Software Engineering, California Institute of Technology, Pasadena, CA
-      year: August 2022 - present
+      year: Aug 2022 - present
 
     - title: AI Scholars Instructor
       institution: Inspirit AI
-      year: December 2021 - May 2022
+      year: Dec 2021 - May 2022
 
     - title: Payload Intern 
       institution: Planet Labs
-      year: May 2021 - August 2021
+      year: May 2021 - Aug 2021
 
     - title: Systems & Analysis Technical Assistant
       institution: MIT Lincoln Laboratory 
-      year: January 2021 - May 2021
+      year: Jan 2021 - May 2021
 
     - title: Carbon Cycle & Ecosystems Intern 
       institution: NASA Jet Propulsion Laboratory
-      year: June 2018 - December 2020
+      year: Jun 2018 - Dec 2020
 
     - title: NASA DEVELOP Team Member
       institution: NASA Applied Sciences
-      year: September 2020 - November 2020 
+      year: Sep 2020 - Nov 2020 
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
-      items: 
-        - Mindlin Prize for Innovative Ideas in Science
+      items: Mindlin Prize for Innovative Ideas in Science
     - year: 2021
-      items: 
-        - USGIF Undergraduate Scholarship 
+      items: USGIF Undergraduate Scholarship 
 
 - title: Academic Interests
   type: nested_list
@@ -69,7 +67,28 @@
   type: list
   contents:
     - Environmental law and policy
-    - Rock climbing
     - Photography
     - Backpacking
     - Cooking
+    - Rock climbing
+
+
+# - title: Education
+#    type: time_table
+#    contents:
+#      - title: PhD
+#        institution: University of Zurich, Zurich, Switzerland
+#        year: 1905
+#        description:
+#          - Description 1.
+#          - Description 2.
+#          - title: Description 3.
+#            contents:
+#              - Sub-description 1.
+#              - Sub-description 2.
+#      - title: Federal teaching diploma
+#        institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#        year: 1900
+#        description:
+#          - Description 1.
+#          - Description 2.
