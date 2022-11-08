@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Red Willow Coleman
+    - email: Email
+      value: willowcoleman@pm.me
 
 - title: Education
   type: time_table
