@@ -8,9 +8,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Technologist
+      institution: Imaging Spectroscopy Group, NASA JPL, Pasadena, CA
+      year: April 2023 - Present
     - title: Software Engineer
       institution: Schmidt Academy for Software Engineering, California Institute of Technology, Pasadena, CA
-      year: Aug 2022 - present
+      year: Aug 2022 - April 2023
 
     - title: AI Scholars Instructor
       institution: Inspirit AI
@@ -40,20 +43,21 @@
     - year: 2021
       items: USGIF Undergraduate Scholarship 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Remote Sensing 
-      items: 
-        - Urban heat islands (UHIs)
-        - Land cover/land use mapping 
-        - Urban carbon emissions 
-        - Google Earth Engine
-    - title: Machine Learning 
-      items:
-        - GANs for satellite imagery 
-        - Image super-resolution
-        - Explainable AI
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Remote Sensing 
+#       items: 
+#         - Imaging spectroscopy
+#         - Urban heat islands (UHIs)
+#         - Land cover/land use mapping 
+#         - Urban carbon emissions 
+#         - Google Earth Engine
+#     - title: Machine Learning 
+#       items:
+#         - GANs for satellite imagery 
+#         - Image super-resolution
+#         - Explainable AI
 
 - title: Other Interests
   type: list
@@ -62,7 +66,6 @@
     - Photography
     - Backpacking
     - Cooking
-    - Rock climbing
 
 
 # - title: Education
